@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <title>404 Not Found - Sardana Group</title>        
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <style>
+            body,html{width:100%;margin:0;padding:0;overflow:hidden;}a{text-decoration:unset;color:#ED0000;}a:hover{color:#861010;}.tc{text-align:center;}.mt50{margin-top:50px;}.mt20{margin-top:20px;}
+        </style>
+        <div style="max-width:100%;font-family:monospace;padding:8px">
+            <p class="tc">404 Not Found</p>
+            <p class="tc">Halaman yang anda cari tidak dapat ditemukan</p>
+            <p><a href="https://sardanagroup.co.id">< Kembali ke halaman utama</a></p>
+            <p class="mt50">Menu Lainnya:</p>
+            <p class="tc"><a href="https://sardanagroup.co.id/sardanabookingservice">> Booking Service</a></p>
+            <p class="tc"><a href="https://sardanagroup.co.id/suarapelanggan">> Suara Pelanggan</a></p>
+        </div>  
+        <div class="mt20" style="display:flex;justify-content:center;width:100%;">
+            <img style="max-width:100%;height:auto" src="https://i.ibb.co/gSJgjLd/App-Icon.png">
+        </div>
+    </body>
+</html>
+
+
+<!-- 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+--> 
