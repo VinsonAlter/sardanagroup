@@ -1,0 +1,30 @@
+body {
+	font-family:verdana;
+	font-size:12px;
+}
+
+input {
+	font-family:verdana;
+	font-size:12px;
+}
+
+textarea {
+	font-family:verdana;
+	font-size:12px;
+}
+
+.container {	
+	width:100% !important;
+	min-height:100px;
+	padding:10px;
+	margin:0;
+}
+
+.btn_container {
+	margin-bottom:10px;
+}
+
+.table-responsive {
+	width:100%;
+	overflow: scroll;
+}
